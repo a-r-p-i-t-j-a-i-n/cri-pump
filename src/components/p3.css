@@ -1,0 +1,37 @@
+/* p3.css */
+
+/* Assuming container-p is a direct child of the body or a container with display: flex */
+
+  
+  .container-p {
+    width: 950px;
+    margin-left: 150px;
+    /* Add any additional styling for the container-p class */
+  }
+  .mid{
+    text-align: center;
+  }
+  .mid-1{
+    text-align: center;
+    font-weight: bold;
+  }
+  .custom-hr {
+    width: 100%;
+    text-align: left;
+    margin-left: 0;
+    border: none;
+    border-top: 2px solid red; /* Adjust the thickness and color of the line */
+  }
+  span{
+    color: red;
+  }
+  .bg-red{
+
+background-color: red;
+height: 110px;
+  }
+  /* Add any other styles as needed */
+  .bg-yellow{
+background-color: rgb(233, 233, 200);
+  }
+  

@@ -1,0 +1,29 @@
+.flex-container {
+  display: flex;
+}
+
+.container-photo {
+  width: 400px;
+  height: 750px; /* Set the width according to your requirement */
+  /* You can also add other styles like height, object-fit, etc. */
+
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.bullet-list {
+  padding-left: 20px; 
+  color: black;/* Adjust the padding as needed */
+}
+
+/* Add styles for your image component to align it with the text */
+
+/* Additional style to separate lines within the li element */
+.bullet-list li div {
+  color: black;
+  list-style-type: disc; /* Use 'disc' for black circle bullets */
+  display: block;
+}
+
